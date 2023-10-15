@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Kupleyy diary</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .inline-menu>li {
+            display: inline;
+            list-style-type: none;
+            margin-right: 30px;
+        }
+
+        .navbar {
+            background-color:chocolate;
+            padding: 10px;
+            border-radius: 15px;
+        }
+
+        .myclass-bar{
+            background-color:wheat;
+            border-style: solid;
+            border-radius: 8px;
+        }
+
+        .navbar-link {
+            color: #f6f6f6;
+        }
+
+        body {
+            max-width: 70rem;
+            margin: auto;
+            font-family: cursive;        }
+
+        .content {
+            margin-left: 35px;
+            margin-right: 35px;
+        }
+
+        .img-body {
+            width: 12%;
+            float: left;
+            border-radius: 10px;
+            margin-right: 5%;
+        }
+
+        .paragraph-body {
+            padding-top: 10px;
+            font-size: 25px;
+        }
+
+        .socmed-menu {
+            padding-left: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 style="text-align:center;margin-bottom: 50px;margin-top:35px;">Kupleyy Diary Web</h1>
+
+    <div class="navbar">
+        <ul class="inline-menu">
+            <li style="margin-left: -35px;">
+                <a class="navbar-link" href="#">Home</a>
+            </li>
+            <li>
+                <a class="navbar-link" href="#">About</a>
+            </li>
+            <li>
+                <a class="navbar-link" href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="myclass-bar">
+
+    <div class="content">
+        <img class="img-body" src="images/New folder/WhatsApp Image 2023-10-15 at 00.21.25_67a17dda.jpg" />
+        <p class="paragraph-body">
+        <h2>
+            Hallo aku Ravly, ini Profil ku
+        </h2>
+        <p>
+            Nama  : Muhammad Ravly Aditya
+        </p>
+        <p>
+            Umur  : 19 Tahun (mau ke 20) "tua bgt gua"
+        </p>
+        <p>
+            Zodiak: Aries (katanya redflag)
+        </p>
+        <p>
+            Skill : Suka Ngajar Paskib, Jago PBB, Ganteng Maksimal
+        
+        </p>
+        <hr />
+        <h3>Social media</h3>
+        <ul class="socmed-menu">
+            <li>
+                <p>
+                    <a href="https://www.instagram.com/ravlyrachman/">Instagram <i class="fab fa-instagram"></i></a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="https://twitter.com/PlayInHere_">Twitter <i class="fab fa-twitter"></i></a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="https://www.whatsapp.com/">Whatsapp <i class="fab fa-Whatsapp"></i></a>
+                </p>
+            </li>
+        </ul>
+
+    </div>
+    </div>
+</body>
+
+</html><!DOCTYPE html>
+<html>
+
+<head>
+    <title>Kupleyy diary</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        .inline-menu>li {
+            display: inline;
+            list-style-type: none;
+            margin-right: 30px;
+        }
+
+        .navbar {
+            background-color:chocolate;
+            padding: 10px;
+            border-radius: 15px;
+        }
+
+        .myclass-bar{
+            background-color:wheat;
+            border-style: solid;
+            border-radius: 8px;
+        }
+
+        .navbar-link {
+            color: #f6f6f6;
+        }
+
+        body {
+            max-width: 70rem;
+            margin: auto;
+            font-family: cursive;        }
+
+        .content {
+            margin-left: 35px;
+            margin-right: 35px;
+        }
+
+        .img-body {
+            width: 12%;
+            float: left;
+            border-radius: 10px;
+            margin-right: 5%;
+        }
+
+        .paragraph-body {
+            padding-top: 10px;
+            font-size: 25px;
+        }
+
+        .socmed-menu {
+            padding-left: 50px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 style="text-align:center;margin-bottom: 50px;margin-top:35px;">Kupleyy Diary Web</h1>
+
+    <div class="navbar">
+        <ul class="inline-menu">
+            <li style="margin-left: -35px;">
+                <a class="navbar-link" href="#">Home</a>
+            </li>
+            <li>
+                <a class="navbar-link" href="#">About</a>
+            </li>
+            <li>
+                <a class="navbar-link" href="#">Contact</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="myclass-bar">
+
+    <div class="content">
+        <img class="img-body" src="images/New folder/WhatsApp Image 2023-10-15 at 00.21.25_67a17dda.jpg" />
+        <p class="paragraph-body">
+        <h2>
+            Hallo aku Ravly, ini Profil ku
+        </h2>
+        <p>
+            Nama  : Muhammad Ravly Aditya
+        </p>
+        <p>
+            Umur  : 19 Tahun (mau ke 20) "tua bgt gua"
+        </p>
+        <p>
+            Zodiak: Aries (katanya redflag)
+        </p>
+        <p>
+            Skill : Suka Ngajar Paskib, Jago PBB, Ganteng Maksimal
+        
+        </p>
+        <hr />
+        <h3>Social media</h3>
+        <ul class="socmed-menu">
+            <li>
+                <p>
+                    <a href="https://www.instagram.com/ravlyrachman/">Instagram <i class="fab fa-instagram"></i></a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="https://twitter.com/PlayInHere_">Twitter <i class="fab fa-twitter"></i></a>
+                </p>
+            </li>
+            <li>
+                <p>
+                    <a href="https://www.whatsapp.com/">Whatsapp <i class="fab fa-Whatsapp"></i></a>
+                </p>
+            </li>
+        </ul>
+
+    </div>
+    </div>
+</body>
+
+</html>
